@@ -4,7 +4,7 @@ Puedes ver y probar la calculadora: [Calculadora Inteligente](https://brayanhuin
 
 <p align="center">
   <a href="https://brayanhuincho.github.io/Calculadora/">
-    <img src="foto.jpg" alt="Captura de la calculadora" width="600">
+    <img src="foto.png" alt="Captura de la calculadora" width="600">
   </a>
 </p>
 
