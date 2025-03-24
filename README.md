@@ -2,11 +2,14 @@
 
 Puedes ver y probar la calculadora: [Calculadora Inteligente](https://brayanhuincho.github.io/Calculadora/)
 
-Esta calculadora te permite realizar operaciones matemáticas. Puedes hacer **sumas**, **restas**, **multiplicaciones**, **divisiones**, **calcular porcentajes** y usar **paréntesis** para organizar las operaciones.
+<p align="center">
+  <a href="https://brayanhuincho.github.io/Calculadora/">
+    <img src="foto.jpg" alt="Captura de la calculadora" width="600">
+  </a>
+</p>
 
 ## Tecnologías Utilizadas
 
-- **Frontend**:
   - **HTML**
   - **CSS**
   - **JavaScript**
